@@ -1,2 +1,2 @@
-# cse6r
-Minimal Docker image for UCSD CSE 6R
+# cse6r_grade
+Minimal Docker image for UCSD CSE 6R grading
